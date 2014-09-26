@@ -15,7 +15,7 @@ npm install websocket-neopixels
 
 Then, make sure you [install the Neopixels firmware](https://github.com/tessel/neopixels#installation) on your Tessel. Note that I have [a PR open](https://github.com/tessel/firmware/pull/71) to merge Neopixels support into the official firmware build but it hasn't landed at the time of this writing.
 
-[Power your Neopixels](https://learn.adafruit.com/adafruit-neopixel-uberguide/power)(mine is just a small ring so I powered it with Tessel, PWR into VIN and GND into GND) and plug the data pin into G4 on Tessel.
+[Power your Neopixels](https://learn.adafruit.com/adafruit-neopixel-uberguide/power) (mine is just a small ring so I powered it with Tessel, PWR into VIN and GND into GND) and plug the data pin into G4 on Tessel.
 
 ## Usage
 
